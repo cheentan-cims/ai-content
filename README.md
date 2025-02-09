@@ -1,5 +1,8 @@
-# CIMS AI Content
-The list of all AI micro learning content from CIMS.
+# Cheentan's AI micro learning content
+
+> Follow us on [LinkedIn](https://www.linkedin.com/company/cims-cheentan/) and/or join our [WhatsApp group](https://chat.whatsapp.com/Ltny00USikU1JEuVArJHwW) for more.
+
+---
 
 #5 [Nour; PYCAD: Medical AI - Imaging, Engineering, Startups, Algorithms, & more | Cheentan](https://youtu.be/c97y-7FfRuY) (podcast)
 
