@@ -1,4 +1,4 @@
-# ai-content
+# CIMS AI Content
 The list of all AI micro learning content from CIMS.
 
 * [𝐀 𝐬𝐭𝐞𝐩-𝐛𝐲-𝐬𝐭𝐞𝐩 𝐩𝐫𝐨𝐜𝐞𝐬𝐬 𝐭𝐨 𝐠𝐞𝐭 𝐢𝐧𝐩𝐮𝐭 𝐭𝐞𝐱𝐭 𝐞𝐦𝐛𝐞𝐝𝐝𝐢𝐧𝐠𝐬 𝐢𝐧 𝐚 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫](https://www.linkedin.com/posts/cims-cheentan_statistics-machinelearning-datascience-activity-7294319183956254720-HA9a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFeg4y8BlQgeOMMa3WVzsLvJ6fUUK1sPZ4Y)
